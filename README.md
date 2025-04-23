@@ -12,4 +12,4 @@ Recent Projects:
 Automated CI/CD pipelines with GitHub Actions and Terraform
 Managed reverse proxy and routing with Traefik
 
-Lets connect & collaborate
+Lets connect & collaborate chisolumodoabuchi@gmail.com
